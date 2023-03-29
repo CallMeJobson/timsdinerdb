@@ -1,0 +1,10 @@
+C:\learning\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dacpac
+C:\learning\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dll
+C:\learning\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.pdb
+C:\learning\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.sqlproj.AssemblyReference.cache
+C:\learning\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.dll
+C:\learning\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.pdb
+C:\learning\AspNetCoreCommon\TimsDinerDB\obj\Release\Model.xml
+C:\learning\AspNetCoreCommon\TimsDinerDB\obj\Release\refactor.xml
+C:\learning\AspNetCoreCommon\TimsDinerDB\obj\Release\postdeploy.sql
+C:\learning\AspNetCoreCommon\TimsDinerDB\obj\Release\predeploy.sql
